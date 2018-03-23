@@ -1,0 +1,3 @@
+language: swift
+xcode_project: Calculatoor.xcodeproj
+xcode_scheme: Calculatoor
