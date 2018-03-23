@@ -1,4 +1,4 @@
-How to use [draw.io](www.draw.io)
+How to use [draw.io](https://www.draw.io/)
 ======================================
 
 * Go to the website (see link in heading)  
